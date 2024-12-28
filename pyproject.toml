@@ -1,0 +1,7 @@
+[project]
+name = "genesis-audio-cleaner"
+version = "0.1.0"
+description = "Genesis audio-cleaner component"
+dependencies = [
+    "genesis-base",
+]
